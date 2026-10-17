@@ -1,0 +1,1 @@
+{"bin":{"tmp-sweep":"bin/tmp-sweep.js"},"description":"Sweep files older than an age threshold, with dry-run default and JSON output","engines":{"node":">=18"},"files":["bin"],"license":"MIT","name":"tmp-sweep","scripts":{"test":"node --test"},"version":"1.0.0"}
